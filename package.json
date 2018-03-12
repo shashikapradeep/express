@@ -1,0 +1,29 @@
+{
+  "name": "tutorial_of_express",
+  "version": "1.0.0",
+  "description": "Testing Express Fetures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashikapradeep/express.git"
+  },
+  "keywords": [
+    "express",
+    "shashikapradeep",
+    "shashika",
+    "pradeep"
+  ],
+  "author": "Shashika Pradeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashikapradeep/express/issues"
+  },
+  "homepage": "https://github.com/shashikapradeep/express#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "pug": "^2.0.1"
+  }
+}
